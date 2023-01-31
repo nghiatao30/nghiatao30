@@ -1,2 +1,1 @@
-
-Hi i'm Đường Minh Khang 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiatao30)](https://github.com/anuraghazra/github-readme-stats)
